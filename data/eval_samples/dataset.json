@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pair_1",
+    "resume_text": "Jane Doe. Backend engineer with 4 years of experience. Built REST APIs using FastAPI. Worked with PostgreSQL, Docker, and Git. Bachelor of Science in Computer Science.",
+    "job_text": "Backend Engineer. Requirements: 3+ years experience with Python and web frameworks, Bachelor's degree in Computer Science, Docker and PostgreSQL experience. Preferred: AWS, Redis.",
+    "expected_resume_skills": ["FastAPI", "PostgreSQL", "Docker", "Git"],
+    "expected_job_required_skills": ["Docker", "PostgreSQL"],
+    "expected_relevance": "high"
+  },
+  {
+    "id": "pair_2",
+    "resume_text": "John Smith. Pastry chef with 6 years of experience in French baking techniques. Managed kitchen staff of 10.",
+    "job_text": "Senior Backend Engineer. Requirements: 5+ years experience with Java, Kubernetes, and microservices architecture. Bachelor's degree required.",
+    "expected_resume_skills": [],
+    "expected_job_required_skills": ["Java", "Kubernetes", "Microservices"],
+    "expected_relevance": "low"
+  },
+  {
+    "id": "pair_3",
+    "resume_text": "Ravi Kumar. Data scientist with 3 years of experience. Skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow. Master's degree in Statistics.",
+    "job_text": "Machine Learning Engineer. Requirements: Experience with Python, TensorFlow or PyTorch, and strong statistics background. Master's degree preferred.",
+    "expected_resume_skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow"],
+    "expected_job_required_skills": ["Python", "TensorFlow"],
+    "expected_relevance": "high"
+  },
+  {
+    "id": "pair_4",
+    "resume_text": "Emily Chen. Frontend developer with 2 years of experience. Proficient in React, TypeScript, and CSS. Bachelor's degree in Design.",
+    "job_text": "Backend Engineer. Requirements: Node.js, Express.js, MongoDB, and REST API design. 3+ years experience.",
+    "expected_resume_skills": ["React", "TypeScript"],
+    "expected_job_required_skills": ["Node.js", "Express.js", "MongoDB", "REST API"],
+    "expected_relevance": "medium-low"
+  }
+]

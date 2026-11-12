@@ -1,0 +1,42 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "C",
+    "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R",
+    "MATLAB", "Perl", "SQL", "Bash", "Shell Scripting"
+  ],
+  "web_frameworks": [
+    "FastAPI", "Flask", "Django", "React", "Angular", "Vue.js", "Next.js",
+    "Express.js", "Spring Boot", "Node.js", "ASP.NET", "Ruby on Rails",
+    "Svelte", "GraphQL", "REST API", "gRPC"
+  ],
+  "data_ml": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing",
+    "Computer Vision", "TensorFlow", "PyTorch", "Keras", "Scikit-learn",
+    "Pandas", "NumPy", "Sentence Transformers", "Hugging Face",
+    "Data Analysis", "Data Visualization", "Statistics", "MLOps",
+    "Reinforcement Learning", "LLM", "Prompt Engineering"
+  ],
+  "cloud_devops": [
+    "AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes",
+    "Terraform", "CI/CD", "Jenkins", "GitHub Actions", "Ansible",
+    "Linux", "Nginx", "Microservices", "Serverless"
+  ],
+  "databases": [
+    "PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite", "Elasticsearch",
+    "Cassandra", "DynamoDB", "Oracle", "SQL Server", "Firebase"
+  ],
+  "tools": [
+    "Git", "GitHub", "GitLab", "Jira", "Confluence", "Postman",
+    "VS Code", "Figma", "Tableau", "Power BI", "Excel"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Teamwork", "Problem Solving",
+    "Project Management", "Agile", "Scrum", "Time Management",
+    "Critical Thinking", "Mentoring"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect", "PMP", "Scrum Master",
+    "CKA", "CompTIA Security+", "Google Cloud Professional",
+    "Azure Fundamentals", "CISSP"
+  ]
+}

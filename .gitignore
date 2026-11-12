@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Models cache (downloaded on first run)
+models/*
+!models/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Uploaded/test data artifacts
+data/uploads/
+*.log
